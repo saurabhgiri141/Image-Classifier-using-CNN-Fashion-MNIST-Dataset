@@ -22,11 +22,11 @@ The ten fashion class labels include:
 
 ### How to Run on Google Colaboratory
 # From GitHub
-Replace "github.com" to "colab.research.google.com/github". For example, if the URL on GitHub is https://github.com/shoji9x9/train-yolov3-on-google-colaboratory/blob/master/Training.ipynb, it should be replaced to https://colab.research.google.com/github/shoji9x9/train-yolov3-on-google-colaboratory/blob/master/Training.ipynb.
+Replace "github.com" to "colab.research.google.com/github". For example, if the URL on GitHub is https://github.com/saurabhgiri141/Image-Classifier-using-CNN-Fashion-MNIST-Dataset/blob/master/Image_Classifier_using_CNN_Fashion_MNIST_Dataset.ipynb, it should be replaced to https://colab.research.google.com/github/saurabhgiri141/Image-Classifier-using-CNN-Fashion-MNIST-Dataset/blob/master/Image_Classifier_using_CNN_Fashion_MNIST_Dataset.ipynb
 
 # From Google Colaboratory
 Select File -> Open notebook...
-Input the URL on GitHub (e.g. https://github.com/shoji9x9/train-yolov3-on-google-colaboratory/blob/master/Training.ipynb) into "Enter a GitHub URL or search by organization or user" on GITHUB tab.
+Input the URL on GitHub (e.g. https://github.com/saurabhgiri141/Image-Classifier-using-CNN-Fashion-MNIST-Dataset/blob/master/Image_Classifier_using_CNN_Fashion_MNIST_Dataset.ipynb) into "Enter a GitHub URL or search by organization or user" on GITHUB tab.
 
 
 # Requirements To Run:
